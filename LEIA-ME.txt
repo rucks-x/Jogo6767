@@ -1,0 +1,5 @@
+COMO GERAR O APK (sem Android Studio)
+1. Crie um repositório gratuito no github.com e envie TODOS os arquivos desta pasta (inclusive a pasta .github).
+2. Abra a aba Actions > "Gerar APK" > Run workflow e espere uns 5 minutos.
+3. Na execução concluída, baixe "jogo-6-7-apk" (Artifacts), extraia e instale o app-debug.apk no celular.
+   (Permita "instalar apps de fontes desconhecidas" no Android.)
